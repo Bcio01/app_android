@@ -71,6 +71,21 @@
                     android:layout_height="wrap_content"
                     android:layout_marginTop="12dp"
                     android:text="Compartir texto"/>
+
+                <Button
+                    android:id="@+id/btnLinterna"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="12dp"
+                    android:text="Encender Linterna"/>
+
+                <Button
+                    android:id="@+id/btnCamara"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="12dp"
+                    android:text="Abrir Cámara"/>
+
             </LinearLayout>
         </LinearLayout>
     </androidx.core.widget.NestedScrollView>
